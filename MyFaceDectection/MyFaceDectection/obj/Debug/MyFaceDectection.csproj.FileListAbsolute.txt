@@ -1,0 +1,14 @@
+C:\Users\bendik.langseth\source\repos\MyFaceDectection\MyFaceDectection\bin\Debug\MyFaceDectection.exe.config
+C:\Users\bendik.langseth\source\repos\MyFaceDectection\MyFaceDectection\bin\Debug\MyFaceDectection.exe
+C:\Users\bendik.langseth\source\repos\MyFaceDectection\MyFaceDectection\bin\Debug\MyFaceDectection.pdb
+C:\Users\bendik.langseth\source\repos\MyFaceDectection\MyFaceDectection\bin\Debug\Emgu.CV.xml
+C:\Users\bendik.langseth\source\repos\MyFaceDectection\MyFaceDectection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\bendik.langseth\source\repos\MyFaceDectection\MyFaceDectection\bin\Debug\Emgu.Util.xml
+C:\Users\bendik.langseth\source\repos\MyFaceDectection\MyFaceDectection\obj\Debug\MyFaceDectection.csprojAssemblyReference.cache
+C:\Users\bendik.langseth\source\repos\MyFaceDectection\MyFaceDectection\obj\Debug\MyFaceDectection.Form1.resources
+C:\Users\bendik.langseth\source\repos\MyFaceDectection\MyFaceDectection\obj\Debug\MyFaceDectection.Properties.Resources.resources
+C:\Users\bendik.langseth\source\repos\MyFaceDectection\MyFaceDectection\obj\Debug\MyFaceDectection.csproj.GenerateResource.cache
+C:\Users\bendik.langseth\source\repos\MyFaceDectection\MyFaceDectection\obj\Debug\MyFaceDectection.csproj.CoreCompileInputs.cache
+C:\Users\bendik.langseth\source\repos\MyFaceDectection\MyFaceDectection\obj\Debug\MyFaceDectection.csproj.CopyComplete
+C:\Users\bendik.langseth\source\repos\MyFaceDectection\MyFaceDectection\obj\Debug\MyFaceDectection.exe
+C:\Users\bendik.langseth\source\repos\MyFaceDectection\MyFaceDectection\obj\Debug\MyFaceDectection.pdb
